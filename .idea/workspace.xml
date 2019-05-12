@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a8f1fa8-f11b-4e12-99c0-4823756dd777" name="Default" comment="" />
+    <list default="true" id="4a8f1fa8-f11b-4e12-99c0-4823756dd777" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yigou-config-server/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yigou-config-server/src/main/java/cn/itsource/yigou/ConfigServerApplication.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yigou-config-server/src/main/resources/application.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yigou-config-server/yigou-config-server.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/resources/bootstrap.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/yigou-zuul-gateway/src/main/resources/bootstrap.yml" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/yigou-plat-parent/plat-service/plat-service.iml" afterPath="$PROJECT_DIR$/yigou-plat-parent/plat-service/plat-service.iml" />
+      <change beforePath="$PROJECT_DIR$/yigou-plat-parent/plat-service/pom.xml" afterPath="$PROJECT_DIR$/yigou-plat-parent/plat-service/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/yigou-zuul-gateway/pom.xml" afterPath="$PROJECT_DIR$/yigou-zuul-gateway/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/yigou-zuul-gateway/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/yigou-zuul-gateway/src/main/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/yigou-zuul-gateway/target/classes/application.yml" afterPath="$PROJECT_DIR$/yigou-zuul-gateway/target/classes/application.yml" />
+      <change beforePath="$PROJECT_DIR$/yigou-zuul-gateway/yigou-zuul-gateway.iml" afterPath="$PROJECT_DIR$/yigou-zuul-gateway/yigou-zuul-gateway.iml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/yigou-eureka-server/target/" />
@@ -12,12 +33,16 @@
     <ignored path="$PROJECT_DIR$/yigou-plat-parent/target/" />
     <ignored path="$PROJECT_DIR$/yigou-plat-parent/plat-interface/target/" />
     <ignored path="$PROJECT_DIR$/yigou-plat-parent/plat-service/target/" />
+    <ignored path="$PROJECT_DIR$/yigou-config-server/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -32,7 +57,108 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yigou-zuul-gateway/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yigou-config-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="43" column="60" lean-forward="false" selection-start-line="43" selection-start-column="60" selection-end-line="43" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yigou-config-server/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yigou-zuul-gateway/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yigou-zuul-gateway/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZuulGatewayApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yigou-zuul-gateway/src/main/java/cn/itsource/yigou/ZuulGatewayApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/java/cn/itsource/yigou/controller/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlatApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/java/cn/itsource/yigou/PlatApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,6 +169,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -55,8 +182,6 @@
         <option value="$PROJECT_DIR$/yigou-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/yigou-eureka-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/yigou-eureka-server/src/main/java/cn/itsource/yigou/EurekaServiceApplication.java" />
-        <option value="$PROJECT_DIR$/yigou-zuul-gateway/pom.xml" />
-        <option value="$PROJECT_DIR$/yigou-zuul-gateway/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/yigou-zuul-gateway/src/main/java/cn/itsource/yigou/ZuulGatewayApplication.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/basic-parent/本类作用.txt" />
@@ -69,13 +194,24 @@
         <option value="$PROJECT_DIR$/yigou-plat-parent/plat-interface/此模块作用.txt" />
         <option value="$PROJECT_DIR$/yigou-plat-parent/plat-interface/src/main/java/cn/itsource/yigou/domain/User.java" />
         <option value="$PROJECT_DIR$/yigou-plat-parent/plat-interface/pom.xml" />
-        <option value="$PROJECT_DIR$/yigou-plat-parent/plat-service/pom.xml" />
         <option value="$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/java/cn/itsource/yigou/PlatApplication.java" />
         <option value="$PROJECT_DIR$/yigou-plat-parent/plat-service/此模块作用.txt" />
-        <option value="$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/java/cn/itsource/yigou/controller/LoginController.java" />
+        <option value="G:/项目三/2019-05-11-B2C商城(爱购网)-day01/code/aigou-parent/aigou-parent/aigou-plat-parent/plat-interface/src/main/java/cn/itsource/aigou/domain/Employee.java" />
+        <option value="$PROJECT_DIR$/yigou-config-server/src/main/java/cn/itsource/yigou/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/yigou-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/yigou-zuul-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/yigou-zuul-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/yigou-plat-parent/plat-service/pom.xml" />
+        <option value="$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/yigou-zuul-gateway/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/yigou-config-server/src/main/resources/application.yml" />
       </list>
     </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -102,8 +238,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="354" />
-    <option name="y" value="151" />
+    <option name="x" value="585" />
+    <option name="y" value="81" />
     <option name="width" value="1400" />
     <option name="height" value="989" />
   </component>
@@ -122,9 +258,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,15 +266,151 @@
               <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-config-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-plat-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="plat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-zuul-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="yigou-zuul-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -179,7 +449,7 @@
     </option>
     <option name="contentProportion" value="0.20249052" />
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaServiceApplication">
+  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -227,6 +497,13 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.yigou.ConfigServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="yigou-config-server" />
+      <envs />
     </configuration>
     <configuration name="EurekaServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -279,10 +556,11 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.EurekaServiceApplication" />
-      <item index="1" class="java.lang.String" itemvalue="Spring Boot.ZuulGatewayApplication" />
-      <item index="2" class="java.lang.String" itemvalue="Spring Boot.PlatApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.ConfigServerApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.ZuulGatewayApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.PlatApplication" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -302,18 +580,20 @@
       <workItem from="1557673158374" duration="408000" />
       <workItem from="1557675477695" duration="807000" />
       <workItem from="1557678477656" duration="285000" />
+      <workItem from="1557679402136" duration="1141000" />
+      <workItem from="1557680736951" duration="4595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8626000" />
+    <option name="totallyTimeSpent" value="14362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4368715" sideWeight="0.5021322" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -324,16 +604,18 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4368715" sideWeight="0.4978678" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4147157" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18656716" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23880596" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -343,7 +625,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
     </layout>
@@ -361,6 +642,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://G:/项目三/2019-05-11-B2C商城(爱购网)-day01/code/aigou-parent/aigou-parent/aigou-plat-parent/plat-interface/src/main/java/cn/itsource/aigou/domain/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/yigou-zuul-gateway/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -380,13 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yigou-eureka-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yigou-eureka-server/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
@@ -402,21 +684,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basic-util/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/basic-parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic-parent/本类作用.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -445,13 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yigou-zuul-gateway/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yigou-plat-parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -477,13 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/项目三/2019-05-11-B2C商城(爱购网)-day01/code/aigou-parent/aigou-parent/aigou-plat-parent/plat-interface/src/main/java/cn/itsource/aigou/domain/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -536,14 +789,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yigou-zuul-gateway/src/main/java/cn/itsource/yigou/ZuulGatewayApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://G:/项目三/2019-05-11-B2C商城(爱购网)-day01/code/aigou-parent/aigou-parent/basic-parent/basic-util/src/main/java/cn/itsource/aigou/util/AjaxResult.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -558,43 +803,160 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/java/cn/itsource/yigou/PlatApplication.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/项目三/2019-05-11-B2C商城(爱购网)-day01/code/aigou-parent/aigou-parent/aigou-plat-parent/plat-interface/src/main/java/cn/itsource/aigou/domain/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="290">
+          <caret line="32" column="4" lean-forward="false" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/项目三/2019-05-12-B2C商城(爱购网)-day02/code/code/aigou-parent/aigou-config-server/src/main/java/cn/itsource/aigou/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yigou-eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="47" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yigou-config-server/src/main/java/cn/itsource/yigou/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#335#336#0" expanded="false" />
-            <element signature="e#401#402#0" expanded="false" />
+            <element signature="e#448#449#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yigou-plat-parent/plat-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2001">
-          <caret line="68" column="12" lean-forward="false" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+        <state relative-caret-position="318">
+          <caret line="50" column="21" lean-forward="false" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yigou-zuul-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/java/cn/itsource/yigou/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="261">
           <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yigou-zuul-gateway/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="203">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yigou-plat-parent/plat-service/src/main/java/cn/itsource/yigou/PlatApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yigou-zuul-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/项目三/2019-05-12-B2C商城(爱购网)-day02/code/code/aigou-parent/aigou-zuul-gateway/src/main/java/cn/itsource/aigou/ZuulGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yigou-zuul-gateway/src/main/java/cn/itsource/yigou/ZuulGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yigou-zuul-gateway/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yigou-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="43" column="60" lean-forward="false" selection-start-line="43" selection-start-column="60" selection-end-line="43" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yigou-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>

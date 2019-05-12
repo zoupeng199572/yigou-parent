@@ -1,0 +1,23 @@
+server:
+  port: 1299
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+  instance:
+    instance-id: aigou-config-server:1299.com
+    prefer-ip-address: true
+spring:
+  profiles:
+    active: native
+  application:
+    name: yigou-config-server #指定服务名不区分大小写eureka注册中心的application下面
+  cloud:
+    config:
+      server:
+       native:
+        search-locations: D:/github/yigou-config #本地配置所在目录将反斜杠改为正斜杠
+#        git:
+#          uri: https://github.com/zoupeng199572/yigou-config.git   #github上的配置中心地址
+#          username: zoupeng199572 #github账户
+#          password: zp199572 #github密码
