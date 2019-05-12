@@ -1,0 +1,4 @@
+主要是写
+ domain
+ client（feign负载均衡的接口类）
+ query
