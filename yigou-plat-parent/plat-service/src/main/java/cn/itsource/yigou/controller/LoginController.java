@@ -1,6 +1,7 @@
 package cn.itsource.yigou.controller;
 
 import cn.itsource.aigou.utils.AjaxResult;
+import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
@@ -11,6 +12,7 @@ import java.util.Map;
 public class LoginController {
 
     @PostMapping("/login")
+    @ApiOperation(value = "登录接口")//此注解用于描述接口名称
     /**
      * 前台使用ajax请求传入josn字符串   @RequestBody接收前台传入的josn数据
      */
