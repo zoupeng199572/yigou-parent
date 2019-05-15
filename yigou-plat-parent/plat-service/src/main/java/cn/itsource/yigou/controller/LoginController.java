@@ -4,6 +4,7 @@ import cn.itsource.aigou.utils.AjaxResult;
 import cn.itsource.yigou.domain.Employee;
 import cn.itsource.yigou.service.IEmployeeService;
 import io.swagger.annotations.ApiOperation;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -14,6 +15,7 @@ import java.util.Map;
 @RestController
 //@CrossOrigin  //解决跨域问题,这样配置所有的请求都可以访问
 public class LoginController {
+    @Autowired
     private IEmployeeService employeeService;
 
     @PostMapping("/login")
@@ -25,7 +27,7 @@ public class LoginController {
         String username = (String) params.get("username");
         String password = (String) params.get("password");
         Employee employee = employeeService.login(username,password);
-
+        System.out.println(employee);
         if(null != employee){
             return AjaxResult.me();
         }else {
