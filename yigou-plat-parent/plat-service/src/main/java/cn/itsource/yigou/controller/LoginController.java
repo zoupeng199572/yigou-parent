@@ -3,6 +3,7 @@ package cn.itsource.yigou.controller;
 import cn.itsource.aigou.utils.AjaxResult;
 import cn.itsource.yigou.domain.Employee;
 import cn.itsource.yigou.service.IEmployeeService;
+import cn.itsource.yigou.service.impl.EmployeeServiceImpl;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;

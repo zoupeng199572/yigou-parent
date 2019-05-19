@@ -8,7 +8,7 @@ eureka:
     #拉取配置
 spring:
   profiles:
-      active: dev #什么环境这个是开发环境
+      active: dev #什么环境   这个是开发环境
   cloud:
     config:
       name: application-zuul #github上面名称

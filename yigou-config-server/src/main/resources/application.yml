@@ -5,7 +5,7 @@ eureka:
     service-url:
       defaultZone: http://localhost:7001/eureka
   instance:
-    instance-id: aigou-config-server:1299.com
+    instance-id: yigou-config-server:1299.com
     prefer-ip-address: true
 spring:
   profiles:
