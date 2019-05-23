@@ -6,6 +6,7 @@ package cn.itsource.yigou.query;
 public class BaseQuery {
     private Integer page = 1;
     private Integer size = 10;
+    //封装前端传入的高级查询条件
     private String keyword;
 
     @Override
